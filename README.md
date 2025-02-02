@@ -11,7 +11,7 @@ You'll be working with data provided by the United States Social Security Admini
 
 <img src="https://github.com/user-attachments/assets/e1ff2fa2-6476-456a-a0f8-8057b2fa3053" alt="Deskripsi Gambar" width="800">
 
-you can see full dataset in : [here](https://github.com/user-attachments/files/18631657/baby_names.csv)
+you can download full dataset in : [here](https://github.com/user-attachments/files/18631657/baby_names.csv)
 
 ## A. Popularity Name
 Before you proceed, consider the assumption that a name is considered "Classic" if it appears in 50 or more years, and "Trendy" otherwise.
